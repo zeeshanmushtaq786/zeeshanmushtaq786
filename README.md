@@ -7,7 +7,7 @@ Lahore, Punjab, Pakistan
 
 - **Location**: Lahore  
 - **Phone**: +92 331 787 8872  
-- **Email**: [zeeshan@acrosoft.io](mailto:zeeshan@acrosoft.io)  
+- **Email**: [zeeshan@acrosoft.io](mailto:zeeshan.acrosoft@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/zeeshan-mushtaq-dev](https://www.linkedin.com/in/zeeshan-mushtaq-dev)  
 
 ---
