@@ -76,16 +76,16 @@ _March 2019 – June 2023_
 
 ---
 
-## 📈 GitHub Highlights
+## 📈 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/zeeshanmushtaq786?tab=followers"><img src="https://img.shields.io/github/followers/zeeshanmushtaq786?label=Followers&style=for-the-badge&color=blue" /></a>
-  <a href="https://github.com/zeeshanmushtaq786?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-View%20Projects-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/zeeshanmushtaq786"><img src="https://img.shields.io/badge/Contributions-View%20Profile-success?style=for-the-badge" /></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshanmushtaq786&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmushtaq786&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-- 🔎 Explore my repositories: **[github.com/zeeshanmushtaq786?tab=repositories](https://github.com/zeeshanmushtaq786?tab=repositories)**
-- 📌 Check my latest activity and contributions directly on my profile: **[github.com/zeeshanmushtaq786](https://github.com/zeeshanmushtaq786)**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zeeshanmushtaq786&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
