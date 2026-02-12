@@ -1,86 +1,101 @@
-# Zeeshan Mushtaq
+<!-- Profile README for GitHub -->
 
-**Web Developer | PHP & Laravel Specialist | RESTful API Expert**  
-Lahore, Punjab, Pakistan
+<h1 align="center">Hi, I'm Zeeshan Mushtaq 👋</h1>
+<h3 align="center">Backend-Focused Web Developer | Laravel Specialist | API Builder</h3>
 
-## Contact Information
+<p align="center">
+  <a href="mailto:zeeshan.acrosoft@gmail.com"><img src="https://img.shields.io/badge/Email-zeeshan.acrosoft%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/zeeshan-mushtaq-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Zeeshan%20Mushtaq-blue?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-success?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-- **Location**: Lahore  
-- **Phone**: +92 331 787 8872  
-- **Email**: [zeeshan.acrosoft@gmail.com](mailto:zeeshan.acrosoft@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/zeeshan-mushtaq-dev](https://www.linkedin.com/in/zeeshan-mushtaq-dev)  
-
----
-
-## Summary
-
-Experienced backend and web developer passionate about crafting impactful digital solutions. Skilled in creating, maintaining, and optimizing web applications using modern tools and frameworks like PHP, Laravel, and RESTful APIs. Proficient in front-end technologies, including **HTML5**, **CSS**, **JavaScript**, **jQuery**, and **Bootstrap**. Experienced in managing databases such as **MySQL**, **PostgreSQL**, and **SQLite**. Committed to delivering high-quality and innovative projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeeshanmushtaq786&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## Skills
+## 🚀 About Me
 
-### Core Competencies:
-- PHP Development
-- Laravel Framework
-- RESTful API Development
-- Front-end Technologies: HTML5, CSS, JavaScript, jQuery, Bootstrap
-- Database Management: MySQL, PostgreSQL, SQLite
+I’m a passionate **Web Developer** who loves building reliable and scalable web applications with clean architecture and real-world impact.
 
-### Tools & Technologies:
-- Git/GitHub
-- OAuth
-- MVC Architecture
-- Responsive Web Design
+- 🔭 Currently working as a **Back End Developer at Acrosoft.io**
+- 🌱 Focused on improving advanced **Laravel** and API performance patterns
+- 💡 Interested in **Backend Architecture**, **Database Optimization**, and **Secure Authentication**
+- 🤝 Open to collaborating on meaningful web products
+- 📫 Reach me at: **[zeeshan.acrosoft@gmail.com](mailto:zeeshan.acrosoft@gmail.com)**
 
 ---
 
-## Experience
+## 🛠️ Tech Stack
 
-### **Acrosoft.io**  
-**Back End Developer**  
-_August 2024 – Present (6 months)_  
-- Creating efficient backend solutions with robust coding practices using Laravel.
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,jquery" />
+</p>
 
-### **Crexed**  
-**PHP / Laravel Developer**  
-_June 2023 – September 2024 (1 year 4 months)_  
-- Developed web applications with PHP and Laravel, focusing on both front-end and back-end development.  
-- Worked with REST APIs, OAuth, and MVC architecture for scalable and secure solutions.  
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,git,github" />
+</p>
 
-### **Codelab IT Solutions**  
-**Web Developer**  
-_April 2022 – January 2023 (10 months)_  
-- Maintained and enhanced applications, ensuring a user-friendly experience.  
-
-### **Internship: PHP Developer**  
-_February 2022 – April 2022 (3 months)_  
-- Assisted in developing web applications and gained foundational expertise in web technologies and software lifecycle practices.
+### Core Skills
+- ✅ PHP Development
+- ✅ Laravel Application Development
+- ✅ RESTful API Design & Integration
+- ✅ OAuth & Authentication Flows
+- ✅ MVC Architecture
+- ✅ Responsive Web Development
 
 ---
 
-## Education
+## 💼 Experience Snapshot
 
-**The Islamia University of Bahawalpur**  
-**Bachelor of Computer Science**  
+| Role | Company | Duration | Key Focus |
+|------|---------|----------|-----------|
+| Back End Developer | **Acrosoft.io** | Aug 2024 – Present | Laravel backend systems and robust coding practices |
+| PHP / Laravel Developer | **Crexed** | Jun 2023 – Sep 2024 | Full-stack web apps, REST APIs, OAuth, MVC |
+| Web Developer | **Codelab IT Solutions** | Apr 2022 – Jan 2023 | Application maintenance and UX-focused improvements |
+| PHP Developer Intern | **Internship** | Feb 2022 – Apr 2022 | Web development foundations and software lifecycle exposure |
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science**<br>
+**The Islamia University of Bahawalpur**<br>
 _March 2019 – June 2023_
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-- **Advanced PHP: Debugging Techniques**  
-- **Advanced Laravel**  
-- **Mastering Laravel Framework and PHP**  
-
----
-
-## Top Skills
-
-- Web Development  
-- PHP  
-- Laravel  
+- Advanced PHP: Debugging Techniques
+- Advanced Laravel
+- Mastering Laravel Framework and PHP
 
 ---
 
-Thank you for visiting! Feel free to connect with me on LinkedIn or contact me directly.
+## 📈 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshanmushtaq786&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanmushtaq786&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zeeshanmushtaq786&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Let’s Connect
+
+I’m always happy to discuss new projects, collaboration opportunities, and backend engineering ideas.
+
+- 📧 **Email:** [zeeshan.acrosoft@gmail.com](mailto:zeeshan.acrosoft@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/zeeshan-mushtaq-dev](https://www.linkedin.com/in/zeeshan-mushtaq-dev)
+
+---
+
+<p align="center"><b>Thanks for visiting my profile! ⭐</b></p>
